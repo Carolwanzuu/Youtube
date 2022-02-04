@@ -1,3 +1,22 @@
+# YOUTUBE VIDEOS
+
+## By Carolyne Wanzuu
+
+## Description
+The application uses youtube api so a user is able to search for videos and also watch them.
+ 
+## User Stories
+*View youtube videos
+*Search youtube videos
+
+### Prerequisites
+
+You need the following to start working on the project on your local computer:
+
+* A computer running on either Windows, MacOS or Ubuntu operating system then follow the following guidelines:
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
